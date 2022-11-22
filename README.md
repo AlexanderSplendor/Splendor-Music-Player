@@ -1,2 +1,2 @@
 # Splendor-Music-Player
-I am being able to create it with the help of online but unfortunately it ain't playing
+I was being able to create my own Music Player with the help of online but unfortunately it ain't playing
